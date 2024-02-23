@@ -63,6 +63,7 @@ FIGURE -03
 
 
 ## PROGRAM 
+```
  int led=3;
 int pushbutton=4;
 
@@ -88,7 +89,7 @@ void setup()
       delay(500); 
     }
   }
-   
+```   
  
 
 
