@@ -110,5 +110,6 @@ void setup()
 ![image](https://github.com/SanthoshThiru/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/148958618/dd88a678-6c85-4177-a4b8-376f6d6a7582)
 ![image](https://github.com/SanthoshThiru/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/148958618/b9328ede-15a7-4df1-be20-905a84b1332f)
 
-
+## Result:
+Thus, we have interfaced a digital input (push button) and blink of LED upon activation.
 
